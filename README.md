@@ -1,0 +1,1 @@
+<h3>This notebook is the key to prepare, readily trainable data for Context-Prediction in the SciBERT Language Model. The main corpus of this data is retrieved by performing logical intersections from the PapersWithCode data corpus (by Meta) and the S2ORC data corpus. As the datasets are raw in nature, majority of the data preparation is done is pure Python.</h3>
